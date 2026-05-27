@@ -1,0 +1,6 @@
+{
+  "name": "Wissen Dars Jadvali",
+  "description": "Hakimov Quvonchbek ustozning matematika fanidan dars o'tish jadvali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
